@@ -14,20 +14,3 @@ Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
 All future updates, bug fixes, and feature enhancements will be published in the new repository.
 
 Thank you for your support.
-
----
-
-Razer Merchant Services Plugin for WHMCS Shopping Cart developed by Razer Merchant Services R&D team.
-
-
-Supported version
------------------
-
-WHMCS version v6.0.x and above
-
-
-Update Notice
------
-
-Latest WHMCS plugin moved to FiuuPayment - [Shopping-Cart-Plugins-Fiuu_WHMCS](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_WHMCS)
-
